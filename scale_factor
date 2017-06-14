@@ -1,0 +1,2 @@
+# scaling factor for status grid (has to be an integer > 0)
+scale_factor=1

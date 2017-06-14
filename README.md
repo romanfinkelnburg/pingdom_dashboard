@@ -16,7 +16,7 @@ Please, set your Pingdom credentials in the `credentials` file.
 
 ## Scaling
 
-An scaling factor has to be set in `scaling_factor` file defining the size of the status icons in the grid.
+A scaling factor has to be set in `scaling_factor` file defining the size of the status icons in the grid.
 
 ## Starting Monitor Dashboard
 
